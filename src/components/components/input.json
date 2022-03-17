@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_components_inputs",
+  "info": {
+    "displayName": "input",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  }
+}

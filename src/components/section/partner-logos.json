@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_section_partner_logos",
+  "info": {
+    "displayName": "PartnerLogos",
+    "icon": "anchor",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "component",
+      "repeatable": false,
+      "component": "atomic.heading"
+    },
+    "CTA": {
+      "type": "component",
+      "repeatable": false,
+      "component": "component.button-link"
+    },
+    "partnerLogos": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

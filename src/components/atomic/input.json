@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_atomic_inputs",
+  "info": {
+    "displayName": "Input",
+    "icon": "angle-up",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "placeholder": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_components_button_links",
+  "info": {
+    "displayName": "ButtonLink",
+    "icon": "arrow-alt-circle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "variant": {
+      "type": "enumeration",
+      "enum": [
+        "ghost",
+        "outline",
+        "solid",
+        "link",
+        "unstyled"
+      ]
+    },
+    "url": {
+      "type": "string"
+    },
+    "children": {
+      "type": "string"
+    }
+  }
+}

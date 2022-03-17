@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_atomic_texts",
+  "info": {
+    "displayName": "Text",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "children": {
+      "type": "string"
+    }
+  }
+}

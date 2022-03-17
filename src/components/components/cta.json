@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_components_ctas",
+  "info": {
+    "displayName": "CTA",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  }
+}

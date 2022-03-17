@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_atomic_badges",
+  "info": {
+    "displayName": "Badge",
+    "icon": "adjust",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "children": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "collectionName": "components_section_headers",
+  "info": {
+    "displayName": "Header",
+    "icon": "address-book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "component",
+      "repeatable": false,
+      "component": "atomic.heading"
+    },
+    "subtitle": {
+      "type": "component",
+      "repeatable": false,
+      "component": "atomic.text"
+    },
+    "CTA": {
+      "type": "component",
+      "repeatable": false,
+      "component": "component.button-link"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ]
+    },
+    "variant": {
+      "type": "enumeration",
+      "enum": [
+        "home",
+        "innerPage",
+        "PDP",
+        "search"
+      ],
+      "required": true,
+      "default": "home"
+    },
+    "badge": {
+      "displayName": "Badge",
+      "type": "component",
+      "repeatable": false,
+      "component": "atomic.badge"
+    },
+    "description": {
+      "type": "component",
+      "repeatable": false,
+      "component": "atomic.text"
+    },
+    "search": {
+      "displayName": "Input",
+      "type": "component",
+      "repeatable": false,
+      "component": "atomic.input"
+    }
+  }
+}
